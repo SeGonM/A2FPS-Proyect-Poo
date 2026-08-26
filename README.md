@@ -19,8 +19,8 @@ La intención es aplicar conceptos de POO (clases, herencia, polimorfismo, encap
 
 - Lenguaje: C#
 - Interfaz: Windows Forms
-- Entorno de desarrollo: Visual Studio (abrir la solución con la versión que prefieras; Visual Studio 2019/2022 recomendado)
-- Plataforma: .NET (la versión exacta está indicada en la solución/proyecto)
+- Entorno de desarrollo: Visual Studio
+- Plataforma: .NET
 
 ## Requisitos
 
