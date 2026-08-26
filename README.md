@@ -54,6 +54,7 @@ La intención es aplicar conceptos de POO (clases, herencia, polimorfismo, encap
 
 - /src - código fuente del proyecto (solución de Visual Studio)
 - /docs - documentación adicional (si aplica)
+- /docs/images - diagramas y mapas (añade aquí las imágenes: process.png, impact_map.png) (opcional)
 - /tests - pruebas (si aplica)
 - README.md - este archivo
 
@@ -64,6 +65,51 @@ Ajusta las carpetas según la estructura real del proyecto.
 - Entidades principales: Cliente, Proveedor, Empleado, Administrador, Producto (Videojuego/Consola), Inventario, ContratoRenta
 - Relación típica: Empleado/Administrador gestiona Inventario; Cliente crea ContratoRenta sobre Productos
 - Usa herencia para tipos de usuario y composición para relacionar contratos con productos
+
+## Mapas y diagramas
+
+A continuación se incluyen los diagramas que contextualizan el flujo de operación y el mapa de impacto del proyecto. Añade los archivos de imagen en `/docs/images/` con los nombres recomendados para que se muestren correctamente si lo deseas.
+
+### 1) Proceso de operación (diagrama por actores)
+
+Resumen: Diagrama de flujo por actores (Cliente, Empleado, Administrador, Proveedor) que muestra los pasos principales desde la búsqueda de productos y creación de un alquiler hasta la devolución, verificación de estado y generación de multas si aplica. Indica también las interacciones con la base de datos y las decisiones críticas (producto disponible, retraso en la devolución).
+
+## Objetivo, Alcance y Flujo de Operación
+
+### Objetivo y alcance
+- Objetivo: Ofrecer un servicio de alquiler de videojuegos y consolas eficiente, seguro y confiable que mejore la experiencia del cliente y permita una gestión clara del inventario y las transacciones.
+- Alcance: Aplicación de escritorio para empleados/administradores y portal/login para clientes y proveedores. Funcionalidades principales: catálogo, alquileres, devoluciones, control de stock, generación de multas y reportes operativos.
+
+### Flujo de operación (resumen por actor)
+
+- Cliente:
+  1. Iniciar sesión o registrarse.
+  2. Buscar por categoría o plataforma.
+  3. Ver detalle del producto (precio, estado, descripción).
+  4. Si el producto está disponible: confirmar alquiler (fecha inicio/devolución).
+  5. Consultar historial de alquileres.
+
+- Empleado:
+  1. Iniciar sesión.
+  2. Consultar inventario y verificar disponibilidad.
+  3. Registrar alquileres y entregar producto.
+  4. Registrar devoluciones y verificar estado.
+  5. Generar multas y registrar incidencias si hay retrasos o daños.
+
+- Administrador:
+  - Gestión completa de catálogo, categorías, alquileres, multas, promociones y reportes; administración de usuarios y permisos.
+
+- Proveedor:
+  - Registrar productos ofrecidos, actualizar stock y estado, y consultar el historial de productos suministrados.
+
+### Convenciones (leyenda)
+- Símbolos y convenciones en los diagramas: Inicio/Fin, acción del cliente/empleado/administrador/proveedor, decisión (ej. producto disponible), base de datos, flujo principal y consultas/actualizaciones a BD.
+- Interacciones con la base de datos: registro de alquileres, devoluciones, multas, actualizaciones de stock, historial de clientes y productos.
+
+## Impacto y entregables
+
+- Entregables clave: catálogo de juegos y consolas, búsqueda y filtros por categoría/plataforma, proceso de alquiler simplificado, notificaciones, reportes (ventas, inventario, historial por cliente), control de inventario y gestión de usuarios/permisos.
+- Impacto esperado: acelerar y organizar los procesos de alquiler y devolución, reducir errores de inventario, facilitar la toma de decisiones mediante reportes y mejorar la experiencia del cliente.
 
 ## Cómo contribuir
 
