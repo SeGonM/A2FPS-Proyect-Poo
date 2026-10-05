@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\POO\\A2FPS\\A2FPS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E39A1A18-21FA-4297-BF84-185D3541C73B}|A2FPS.csproj|c:\\poo\\a2fps\\a2fps\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E39A1A18-21FA-4297-BF84-185D3541C73B}|A2FPS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E39A1A18-21FA-4297-BF84-185D3541C73B}|A2FPS.csproj|c:\\poo\\a2fps\\a2fps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E39A1A18-21FA-4297-BF84-185D3541C73B}|A2FPS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\POO\\A2FPS\\A2FPS\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\POO\\A2FPS\\A2FPS\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\POO\\A2FPS\\A2FPS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\POO\\A2FPS\\A2FPS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T13:06:52.22Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-09-23T13:07:36.219Z",
+              "EditorCaption": ""
             }
           ]
         },

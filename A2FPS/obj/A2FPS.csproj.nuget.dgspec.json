@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\POO\\A2FPS\\A2FPS\\A2FPS.csproj": {}
+    "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\A2FPS.csproj": {}
   },
   "projects": {
-    "C:\\POO\\A2FPS\\A2FPS\\A2FPS.csproj": {
+    "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\A2FPS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\POO\\A2FPS\\A2FPS\\A2FPS.csproj",
+        "projectUniqueName": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\A2FPS.csproj",
         "projectName": "A2FPS",
-        "projectPath": "C:\\POO\\A2FPS\\A2FPS\\A2FPS.csproj",
+        "projectPath": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\A2FPS.csproj",
         "packagesPath": "C:\\Users\\SeGonM\\.nuget\\packages\\",
-        "outputPath": "C:\\POO\\A2FPS\\A2FPS\\obj\\",
+        "outputPath": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -52,6 +52,12 @@
         "net10.0-windows": {
           "framework": "net10.0-windows7.0",
           "targetAlias": "net10.0-windows",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.1.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

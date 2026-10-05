@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\POO\\A2FPS\\A2FPS\\",
+  "WorkspaceRootPath": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E39A1A18-21FA-4297-BF84-185D3541C73B}|A2FPS.csproj|c:\\poo\\a2fps\\a2fps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E39A1A18-21FA-4297-BF84-185D3541C73B}|A2FPS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C96F7F3-9494-0275-1E78-F4ED56E7A834}|A2FPS.csproj|c:\\poo\\a2fps\\a2fps-proyect-poo\\a2fps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C96F7F3-9494-0275-1E78-F4ED56E7A834}|A2FPS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C96F7F3-9494-0275-1E78-F4ED56E7A834}|A2FPS.csproj|c:\\poo\\a2fps\\a2fps-proyect-poo\\a2fps\\clases\\cconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C96F7F3-9494-0275-1E78-F4ED56E7A834}|A2FPS.csproj|solutionrelative:clases\\cconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 288,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cConexion.cs",
+              "DocumentMoniker": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\Clases\\cConexion.cs",
+              "RelativeDocumentMoniker": "Clases\\cConexion.cs",
+              "ToolTip": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\Clases\\cConexion.cs",
+              "RelativeToolTip": "Clases\\cConexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T13:30:01.86Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\POO\\A2FPS\\A2FPS\\Program.cs",
+              "DocumentMoniker": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\POO\\A2FPS\\A2FPS\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-23T13:07:36.219Z",
               "EditorCaption": ""
