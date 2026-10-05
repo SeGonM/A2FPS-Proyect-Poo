@@ -56,3 +56,14 @@ C:\POO\A2FPS\A2FPS-Proyect-Poo\A2FPS\obj\Debug\net10.0-windows\refint\A2FPS.dll
 C:\POO\A2FPS\A2FPS-Proyect-Poo\A2FPS\obj\Debug\net10.0-windows\A2FPS.pdb
 C:\POO\A2FPS\A2FPS-Proyect-Poo\A2FPS\obj\Debug\net10.0-windows\A2FPS.genruntimeconfig.cache
 C:\POO\A2FPS\A2FPS-Proyect-Poo\A2FPS\obj\Debug\net10.0-windows\ref\A2FPS.dll
+C:\POO\A2FPS\A2FPS-Proyect-Poo\A2FPS\obj\Debug\net10.0-windows\A2FPS.frmAlquileres.resources
+C:\POO\A2FPS\A2FPS-Proyect-Poo\A2FPS\obj\Debug\net10.0-windows\A2FPS.frmCatalogoInventario.resources
+C:\POO\A2FPS\A2FPS-Proyect-Poo\A2FPS\obj\Debug\net10.0-windows\A2FPS.frmClientes.resources
+C:\POO\A2FPS\A2FPS-Proyect-Poo\A2FPS\obj\Debug\net10.0-windows\A2FPS.frmDevoluciones.resources
+C:\POO\A2FPS\A2FPS-Proyect-Poo\A2FPS\obj\Debug\net10.0-windows\A2FPS.frmGraficos.resources
+C:\POO\A2FPS\A2FPS-Proyect-Poo\A2FPS\obj\Debug\net10.0-windows\A2FPS.frmLogin.resources
+C:\POO\A2FPS\A2FPS-Proyect-Poo\A2FPS\obj\Debug\net10.0-windows\A2FPS.frmMultas.resources
+C:\POO\A2FPS\A2FPS-Proyect-Poo\A2FPS\obj\Debug\net10.0-windows\A2FPS.frmPrincipal.resources
+C:\POO\A2FPS\A2FPS-Proyect-Poo\A2FPS\obj\Debug\net10.0-windows\A2FPS.frmProveedores.resources
+C:\POO\A2FPS\A2FPS-Proyect-Poo\A2FPS\obj\Debug\net10.0-windows\A2FPS.frmVentas.resources
+C:\POO\A2FPS\A2FPS-Proyect-Poo\A2FPS\obj\Debug\net10.0-windows\A2FPS.csproj.GenerateResource.cache

@@ -10,7 +10,7 @@ namespace A2FPS
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmListadoM());
+            Application.Run(new frmLogin());
         }
     }
 }

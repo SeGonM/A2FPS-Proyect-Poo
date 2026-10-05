@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A2FPS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2a307decb876f3b039ace150cd9efe1fb9572f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6fc6175781f323fc5318da5862b7e78ccdda078")]
 [assembly: System.Reflection.AssemblyProductAttribute("A2FPS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A2FPS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
