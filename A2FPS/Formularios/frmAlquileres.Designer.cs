@@ -26,6 +26,12 @@ namespace A2FPS
             dtpFechaInicio = new DateTimePicker();
             dtpFechaDevolucionPrevista = new DateTimePicker();
             tblAlquileres = new DataGridView();
+            colId = new DataGridViewTextBoxColumn();
+            colCliente = new DataGridViewTextBoxColumn();
+            colProducto = new DataGridViewTextBoxColumn();
+            colFechaInicio = new DataGridViewTextBoxColumn();
+            colFechaDevolucionPrevista = new DataGridViewTextBoxColumn();
+            colDisponibilidad = new DataGridViewTextBoxColumn();
             btnRegistrar = new Button();
             btnBuscar = new Button();
             btnLimpiar = new Button();
@@ -34,12 +40,6 @@ namespace A2FPS
             lblFechaInicio = new Label();
             lblFechaDevolucionPrevista = new Label();
             lblBuscar = new Label();
-            colId = new DataGridViewTextBoxColumn();
-            colCliente = new DataGridViewTextBoxColumn();
-            colProducto = new DataGridViewTextBoxColumn();
-            colFechaInicio = new DataGridViewTextBoxColumn();
-            colFechaDevolucionPrevista = new DataGridViewTextBoxColumn();
-            colDisponibilidad = new DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)tblAlquileres).BeginInit();
             SuspendLayout();
             // 
@@ -59,7 +59,7 @@ namespace A2FPS
             // 
             // txtBuscar
             // 
-            txtBuscar.Location = new Point(127, 88);
+            txtBuscar.Location = new Point(152, 86);
             txtBuscar.Name = "txtBuscar";
             txtBuscar.Size = new Size(230, 27);
             txtBuscar.TabIndex = 9;
@@ -89,6 +89,48 @@ namespace A2FPS
             tblAlquileres.RowHeadersWidth = 51;
             tblAlquileres.Size = new Size(856, 370);
             tblAlquileres.TabIndex = 13;
+            // 
+            // colId
+            // 
+            colId.HeaderText = "Id";
+            colId.MinimumWidth = 6;
+            colId.Name = "colId";
+            colId.ReadOnly = true;
+            // 
+            // colCliente
+            // 
+            colCliente.HeaderText = "Cliente";
+            colCliente.MinimumWidth = 6;
+            colCliente.Name = "colCliente";
+            colCliente.ReadOnly = true;
+            // 
+            // colProducto
+            // 
+            colProducto.HeaderText = "Producto";
+            colProducto.MinimumWidth = 6;
+            colProducto.Name = "colProducto";
+            colProducto.ReadOnly = true;
+            // 
+            // colFechaInicio
+            // 
+            colFechaInicio.HeaderText = "Fecha inicio";
+            colFechaInicio.MinimumWidth = 6;
+            colFechaInicio.Name = "colFechaInicio";
+            colFechaInicio.ReadOnly = true;
+            // 
+            // colFechaDevolucionPrevista
+            // 
+            colFechaDevolucionPrevista.HeaderText = "Devolución prevista";
+            colFechaDevolucionPrevista.MinimumWidth = 6;
+            colFechaDevolucionPrevista.Name = "colFechaDevolucionPrevista";
+            colFechaDevolucionPrevista.ReadOnly = true;
+            // 
+            // colDisponibilidad
+            // 
+            colDisponibilidad.HeaderText = "Disponibilidad";
+            colDisponibilidad.MinimumWidth = 6;
+            colDisponibilidad.Name = "colDisponibilidad";
+            colDisponibilidad.ReadOnly = true;
             // 
             // btnRegistrar
             // 
@@ -155,51 +197,9 @@ namespace A2FPS
             lblBuscar.AutoSize = true;
             lblBuscar.Location = new Point(24, 90);
             lblBuscar.Name = "lblBuscar";
-            lblBuscar.Size = new Size(106, 20);
+            lblBuscar.Size = new Size(125, 20);
             lblBuscar.TabIndex = 8;
             lblBuscar.Text = "Buscar txtAlquiler";
-            // 
-            // colId
-            // 
-            colId.HeaderText = "Id";
-            colId.MinimumWidth = 6;
-            colId.Name = "colId";
-            colId.ReadOnly = true;
-            // 
-            // colCliente
-            // 
-            colCliente.HeaderText = "Cliente";
-            colCliente.MinimumWidth = 6;
-            colCliente.Name = "colCliente";
-            colCliente.ReadOnly = true;
-            // 
-            // colProducto
-            // 
-            colProducto.HeaderText = "Producto";
-            colProducto.MinimumWidth = 6;
-            colProducto.Name = "colProducto";
-            colProducto.ReadOnly = true;
-            // 
-            // colFechaInicio
-            // 
-            colFechaInicio.HeaderText = "Fecha inicio";
-            colFechaInicio.MinimumWidth = 6;
-            colFechaInicio.Name = "colFechaInicio";
-            colFechaInicio.ReadOnly = true;
-            // 
-            // colFechaDevolucionPrevista
-            // 
-            colFechaDevolucionPrevista.HeaderText = "Devolución prevista";
-            colFechaDevolucionPrevista.MinimumWidth = 6;
-            colFechaDevolucionPrevista.Name = "colFechaDevolucionPrevista";
-            colFechaDevolucionPrevista.ReadOnly = true;
-            // 
-            // colDisponibilidad
-            // 
-            colDisponibilidad.HeaderText = "Disponibilidad";
-            colDisponibilidad.MinimumWidth = 6;
-            colDisponibilidad.Name = "colDisponibilidad";
-            colDisponibilidad.ReadOnly = true;
             // 
             // frmAlquileres
             // 

@@ -3,19 +3,27 @@
   "WorkspaceRootPath": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C96F7F3-9494-0275-1E78-F4ED56E7A834}|A2FPS.csproj|c:\\poo\\a2fps\\a2fps-proyect-poo\\a2fps\\formularios\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C96F7F3-9494-0275-1E78-F4ED56E7A834}|A2FPS.csproj|solutionrelative:formularios\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1C96F7F3-9494-0275-1E78-F4ED56E7A834}|A2FPS.csproj|C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1C96F7F3-9494-0275-1E78-F4ED56E7A834}|A2FPS.csproj|solutionrelative:formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C96F7F3-9494-0275-1E78-F4ED56E7A834}|A2FPS.csproj|C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\formularios\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C96F7F3-9494-0275-1E78-F4ED56E7A834}|A2FPS.csproj|solutionrelative:formularios\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C96F7F3-9494-0275-1E78-F4ED56E7A834}|A2FPS.csproj|C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\formularios\\frmcatalogoinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C96F7F3-9494-0275-1E78-F4ED56E7A834}|A2FPS.csproj|solutionrelative:formularios\\frmcatalogoinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C96F7F3-9494-0275-1E78-F4ED56E7A834}|A2FPS.csproj|C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\formularios\\frmalquileres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C96F7F3-9494-0275-1E78-F4ED56E7A834}|A2FPS.csproj|solutionrelative:formularios\\frmalquileres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C96F7F3-9494-0275-1E78-F4ED56E7A834}|A2FPS.csproj|c:\\poo\\a2fps\\a2fps-proyect-poo\\a2fps\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C96F7F3-9494-0275-1E78-F4ED56E7A834}|A2FPS.csproj|solutionrelative:formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C96F7F3-9494-0275-1E78-F4ED56E7A834}|A2FPS.csproj|c:\\poo\\a2fps\\a2fps-proyect-poo\\a2fps\\formularios\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1C96F7F3-9494-0275-1E78-F4ED56E7A834}|A2FPS.csproj|C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\formularios\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1C96F7F3-9494-0275-1E78-F4ED56E7A834}|A2FPS.csproj|solutionrelative:formularios\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -37,18 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1C96F7F3-9494-0275-1E78-F4ED56E7A834}|A2FPS.csproj|C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\formularios\\frmdevoluciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1C96F7F3-9494-0275-1E78-F4ED56E7A834}|A2FPS.csproj|solutionrelative:formularios\\frmdevoluciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C96F7F3-9494-0275-1E78-F4ED56E7A834}|A2FPS.csproj|C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\formularios\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1C96F7F3-9494-0275-1E78-F4ED56E7A834}|A2FPS.csproj|solutionrelative:formularios\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C96F7F3-9494-0275-1E78-F4ED56E7A834}|A2FPS.csproj|C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\formularios\\frmalquileres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1C96F7F3-9494-0275-1E78-F4ED56E7A834}|A2FPS.csproj|solutionrelative:formularios\\frmalquileres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C96F7F3-9494-0275-1E78-F4ED56E7A834}|A2FPS.csproj|C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\formularios\\frmcatalogoinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1C96F7F3-9494-0275-1E78-F4ED56E7A834}|A2FPS.csproj|solutionrelative:formularios\\frmcatalogoinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,24 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 112,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmLogin.Designer.cs",
-              "DocumentMoniker": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\Formularios\\frmLogin.Designer.cs",
-              "RelativeDocumentMoniker": "Formularios\\frmLogin.Designer.cs",
-              "ToolTip": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\Formularios\\frmLogin.Designer.cs",
-              "RelativeToolTip": "Formularios\\frmLogin.Designer.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAD4v2UAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T18:02:34.585Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "frmLogin.cs",
               "DocumentMoniker": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\Formularios\\frmLogin.cs",
               "RelativeDocumentMoniker": "Formularios\\frmLogin.cs",
@@ -88,41 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmVentas.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\Formularios\\frmVentas.cs",
-              "RelativeDocumentMoniker": "Formularios\\frmVentas.cs",
-              "ToolTip": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\Formularios\\frmVentas.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Formularios\\frmVentas.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T17:52:58.708Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frmPrincipal.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\Formularios\\frmPrincipal.cs",
-              "RelativeDocumentMoniker": "Formularios\\frmPrincipal.cs",
-              "ToolTip": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\Formularios\\frmPrincipal.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Formularios\\frmPrincipal.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T17:52:49.278Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "frmMultas.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\Formularios\\frmMultas.cs",
-              "RelativeDocumentMoniker": "Formularios\\frmMultas.cs",
-              "ToolTip": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\Formularios\\frmMultas.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Formularios\\frmMultas.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T17:52:47.466Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "frmLogin.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\Formularios\\frmLogin.cs",
               "RelativeDocumentMoniker": "Formularios\\frmLogin.cs",
@@ -134,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "frmProveedores.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\Formularios\\frmProveedores.cs",
               "RelativeDocumentMoniker": "Formularios\\frmProveedores.cs",
@@ -145,7 +94,76 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmAlquileres.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\Formularios\\frmAlquileres.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmAlquileres.cs",
+              "ToolTip": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\Formularios\\frmAlquileres.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Formularios\\frmAlquileres.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T17:46:00.86Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmCatalogoInventario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\Formularios\\frmCatalogoInventario.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmCatalogoInventario.cs",
+              "ToolTip": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\Formularios\\frmCatalogoInventario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\frmCatalogoInventario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T17:47:16.916Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\Formularios\\frmClientes.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmClientes.cs",
+              "ToolTip": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\Formularios\\frmClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\frmClientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T17:52:06.308Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmMultas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\Formularios\\frmMultas.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmMultas.cs",
+              "ToolTip": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\Formularios\\frmMultas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\frmMultas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T17:52:47.466Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "frmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\Formularios\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmPrincipal.cs",
+              "ToolTip": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\Formularios\\frmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\frmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T17:52:49.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\Formularios\\frmVentas.cs",
+              "RelativeDocumentMoniker": "Formularios\\frmVentas.cs",
+              "ToolTip": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\Formularios\\frmVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\frmVentas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T17:52:58.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "frmGraficos.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\Formularios\\frmGraficos.cs",
               "RelativeDocumentMoniker": "Formularios\\frmGraficos.cs",
@@ -156,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "frmDevoluciones.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\Formularios\\frmDevoluciones.cs",
               "RelativeDocumentMoniker": "Formularios\\frmDevoluciones.cs",
@@ -164,39 +182,6 @@
               "RelativeToolTip": "Formularios\\frmDevoluciones.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-05T17:52:10.597Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "frmClientes.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\Formularios\\frmClientes.cs",
-              "RelativeDocumentMoniker": "Formularios\\frmClientes.cs",
-              "ToolTip": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\Formularios\\frmClientes.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Formularios\\frmClientes.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T17:52:06.308Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "frmCatalogoInventario.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\Formularios\\frmCatalogoInventario.cs",
-              "RelativeDocumentMoniker": "Formularios\\frmCatalogoInventario.cs",
-              "ToolTip": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\Formularios\\frmCatalogoInventario.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Formularios\\frmCatalogoInventario.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T17:47:16.916Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "frmAlquileres.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\Formularios\\frmAlquileres.cs",
-              "RelativeDocumentMoniker": "Formularios\\frmAlquileres.cs",
-              "ToolTip": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\Formularios\\frmAlquileres.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Formularios\\frmAlquileres.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T17:46:00.86Z"
             }
           ]
         },
