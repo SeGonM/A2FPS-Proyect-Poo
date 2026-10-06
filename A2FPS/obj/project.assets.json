@@ -1150,23 +1150,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\SeGonM\\.nuget\\packages\\": {},
+    "C:\\Users\\iu391\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\A2FPS.csproj",
+      "projectUniqueName": "C:\\Final-POO\\A2FPS-Proyect-Poo\\A2FPS\\A2FPS.csproj",
       "projectName": "A2FPS",
-      "projectPath": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\A2FPS.csproj",
-      "packagesPath": "C:\\Users\\SeGonM\\.nuget\\packages\\",
-      "outputPath": "C:\\POO\\A2FPS\\A2FPS-Proyect-Poo\\A2FPS\\obj\\",
+      "projectPath": "C:\\Final-POO\\A2FPS-Proyect-Poo\\A2FPS\\A2FPS.csproj",
+      "packagesPath": "C:\\Users\\iu391\\.nuget\\packages\\",
+      "outputPath": "C:\\Final-POO\\A2FPS-Proyect-Poo\\A2FPS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\SeGonM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\iu391\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1226,7 +1226,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
